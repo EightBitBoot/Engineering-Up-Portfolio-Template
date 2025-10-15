@@ -11,7 +11,7 @@ This will serve as a brief description of your projects. Limit this to three sen
 
 My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've stripped away a lot of the parts that were originally on the robot to create room for my kicking arm. I changed the code a lot to accommodate the second H-Bridge which I go more in-depth about in my video below. I've loved this journey so far and I can't wait to see where this takes me in my future career.
 
-[![Video 1](https://img.youtube.com/vi/F1HN5mn18O0/maxresdefault.jpg)](https://www.youtube.com/watch?v=F1HN5mn18O0)
+[![Engineering Up GitHub Portfolio Guide](https://thumbs.video-to-markdown.com/3f1d4ed2.jpg)](https://youtu.be/F1HN5mn18O0)
 
 # Final Schematic Sir Kickington 
 ![Relevant Name](https://live.staticflickr.com/65535/52833486018_300de50504_h.jpg)
